@@ -6,7 +6,7 @@ An easy to use password generator app to secure your accounts againts brute forc
 
 # The user can select the length of the password between 8 and 64 characters;
 
-<a href="https://ibb.co/VMDWDwS"><img src="https://i.ibb.co/VMDWDwS/password-generator.png" alt="password-generator" border="0"></a>
+<a href="https://ibb.co/94Rj71y"><img src="https://i.ibb.co/94Rj71y/2021-10-07-20-40-02-Microsoft-Store.png" alt="2021-10-07-20-40-02-Microsoft-Store" border="0"></a>
 
 
 
